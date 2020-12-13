@@ -37,4 +37,4 @@
 
 ### Language Statistic
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vardandeveloper&layout=compact)](https://github.com/VardanDeveloper)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vardandeveloper&langs_count=17)](https://github.com/VardanDeveloper)
